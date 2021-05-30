@@ -13,6 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="coding-practice" target="11" />
       <module name="Coding_Practice" target="11" />
       <module name="core-java" target="1.8" />
       <module name="hibernate-tutorial" target="11" />

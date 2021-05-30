@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Coding_Practice.iml" filepath="$PROJECT_DIR$/Coding_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding-practice.iml" filepath="$PROJECT_DIR$/coding-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-core-demo/spring-core-demo.iml" filepath="$PROJECT_DIR$/spring-core-demo/spring-core-demo.iml" />
