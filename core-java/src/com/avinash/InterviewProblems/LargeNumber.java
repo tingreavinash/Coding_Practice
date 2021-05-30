@@ -3,7 +3,6 @@ package com.avinash.InterviewProblems;
 public class LargeNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		long[] input_arr= {4,1,6,3,2};
 		
 		long max_val = solution(input_arr);

@@ -3,8 +3,7 @@ package com.avinash.InterviewProblems;
 public class BinaryTree {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+
 		long[] inp_arr = {3,6,2,9,-1,10};
 		
 		String side = solution(inp_arr);

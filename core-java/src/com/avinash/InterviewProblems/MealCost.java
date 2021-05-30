@@ -3,7 +3,6 @@ package com.avinash.InterviewProblems;
 public class MealCost {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		solve(12.00,20,8);
 	}
 	

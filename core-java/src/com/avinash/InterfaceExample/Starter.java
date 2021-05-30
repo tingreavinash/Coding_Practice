@@ -38,8 +38,7 @@ class Car implements Vehicle {
 
 	@Override
 	protected void finalize() throws Throwable {
-		// TODO Auto-generated method stub
-		
+
 		System.out.println("Destroying car 0bject ....");
 	}
 

@@ -25,8 +25,7 @@ class car extends Vehicle{
 
 	@Override
 	public void I_method() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 
@@ -44,8 +43,7 @@ class bike extends Vehicle{
 	}
 	@Override
 	public void I_method() {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	
