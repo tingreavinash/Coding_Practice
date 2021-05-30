@@ -13,8 +13,6 @@
 
     <properties>
         <h2.database.version>1.4.200</h2.database.version>
-        <hibernate.core.version>5.3.7.Final</hibernate.core.version>
-        <jaxb.version>2.3.2</jaxb.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.plugin>3.8.1</maven.compiler.plugin>
