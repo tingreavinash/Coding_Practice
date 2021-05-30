@@ -4,104 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Collection/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Collection/ArrayOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Collection/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Enumeration/EnumerationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ExceptionHandling/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/FileHandling/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/FileHandling/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/FileHandling/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Immutability/MyImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Inheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Inheritance/Inheritance_Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Inheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterfaceExample/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterfaceExample/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/ArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/Checkpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/FinalizeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/HashMapvsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/HourGlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/LargeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/LearnCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/MealCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/StringPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/StringProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/TestAmdocs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/TestClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/TestClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/TestClass4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/WrapperClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/InterviewProblems/varargs_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/JDBC/JDBC_Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Java8_Features/MyFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Multithreading/Cricket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ObjectClassExamples/Cloning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/abstractClass/Abstract_Interface_Ambiguity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/abstractClass/MyNewVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/data_structure/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/data_structure/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/data_structure/LinkedList/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/src/com/avinash/hibernate_tutorial/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/src/com/avinash/hibernate_tutorial/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate-tutorial/src/com/avinash/hibernate_tutorial/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/src/com/avinash/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/src/com/avinash/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="create multi-module project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +22,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -136,6 +39,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.152439" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.DeckOfCards">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -229,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622355578179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create multi-module project">
+      <created>1622361477679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622361477679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="create multi-module project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create multi-module project" />
   </component>
 </project>
