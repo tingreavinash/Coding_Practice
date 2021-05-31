@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="create multi-module project" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Update pom.xml">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +32,11 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,13 +52,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backup/Core_Java/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.152439" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.DeckOfCards">
+  <component name="RunManager" selected="Application.ArrayReverse">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.hibernate_tutorial.App" />
       <module name="hibernate-tutorial" />
@@ -68,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.InterviewProblems.ArraySum" />
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.ArrayReverse" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.InterviewProblems.*" />
+          <option name="PATTERN" value="com.avinash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayReverse" />
         <item itemvalue="Application.DeckOfCards" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.ArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +157,35 @@
       <option name="project" value="LOCAL" />
       <updated>1622361477679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="naming correction">
+      <created>1622363766505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622363766505</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove comments">
+      <created>1622363826152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622363826152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="naming correction">
+      <created>1622363884327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622363884327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update pom.xml">
+      <created>1622364076873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622364076873</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,9 +201,16 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="create multi-module project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create multi-module project" />
+    <MESSAGE value="remove comments" />
+    <MESSAGE value="naming correction" />
+    <MESSAGE value="Update pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update pom.xml" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

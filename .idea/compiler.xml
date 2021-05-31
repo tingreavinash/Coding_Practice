@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-core-demo" />
         <module name="Core_Java" />
-        <module name="core-java" />
         <module name="hibernate-tutorial" />
       </profile>
     </annotationProcessing>
