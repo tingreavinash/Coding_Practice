@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="program to reverse int or string array">
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="update ArrayReverse.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" afterDir="false" />
     </list>
@@ -32,9 +32,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622480563725</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update ArrayReverse.java">
+      <created>1622481106523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622481106523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +234,8 @@
     <MESSAGE value="Update pom.xml" />
     <MESSAGE value="change package structure" />
     <MESSAGE value="program to reverse int or string array" />
-    <option name="LAST_COMMIT_MESSAGE" value="program to reverse int or string array" />
+    <MESSAGE value="update ArrayReverse.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrayReverse.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

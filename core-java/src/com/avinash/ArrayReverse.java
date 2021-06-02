@@ -1,23 +1,33 @@
 package com.avinash;
 
-import java.util.Arrays;
+import java.util.Scanner;
 
 public class ArrayReverse {
     public static void main(String[] args) {
-        //int input[] = {1, 2, 3, 4};
-        String str = "avinash";
-        char[] input = str.toCharArray();
+        Scanner sc = new Scanner(System.in);
 
-        Object[] result1 = reverseArrayType1(input);
-        char[] result2 = reverseArrayType2(input, 0, input.length - 1);
+        int total_testcases = sc.nextInt();
 
-        System.out.println(Arrays.toString(result1));
-        System.out.println(Arrays.toString(result2));
+        for (int j = 0; j < total_testcases; j++) {
+            int size = sc.nextInt();
+            int[] input = new int[size];
+
+            for (int i = 0; i < size; i++) {
+                input[i] = sc.nextInt();
+            }
+            int[] result = reverseArray(input, 0, size - 1);
+
+            StringBuilder sb = new StringBuilder();
+            for (int val : result) {
+                sb.append(val + " ");
+            }
+            System.out.println(sb);
+        }
     }
 
     // More efficient because it only traverse half the elements. No need to create separate array for storing result.
-    private static char[] reverseArrayType2(char[] input, int start, int end) {
-        char temp;
+    private static int[] reverseArray(int[] input, int start, int end) {
+        int temp;
 
         while (start < end) {
             temp = input[start];
@@ -31,7 +41,7 @@ public class ArrayReverse {
 
     }
 
-    private static Object[] reverseArrayType1(char[] input) {
+    private static Object[] reverseArrayType1(int[] input) {
         Object[] result = new Object[input.length];
 
         for (int i = input.length - 1; i >= 0; i--) {
