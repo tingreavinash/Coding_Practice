@@ -12,6 +12,17 @@ class MyArray {
         size = 0;
     }
 
+    public void insertAt(int index, int val) {
+        if (size == capacity) {
+            resize(2 * capacity);
+        }
+        for (int i = size - 1; i >= index; i--) {
+            arr[i + 1] = arr[i];
+        }
+        arr[index] = val;
+        size++;
+    }
+
     public int capacity() {
         return capacity;
     }
@@ -49,7 +60,7 @@ class MyArray {
         return arr[index];
     }
 
-    public void insert(int index, int val) throws Exception {
+    public void set(int index, int val) throws Exception {
         if (index < 0 || index >= size) {
             throw new Exception("Index out of bounds..");
         }
@@ -104,9 +115,9 @@ public class ArrayDataStructure {
         arr.push(40);
         arr.push(50);
 
-        arr.insert(0, 100);
+        arr.set(0, 100);
         arr.push(60);
-        arr.insert(3, 400);
+        arr.set(3, 400);
         //arr.delete(3);
         //arr.delete(4);
         //arr.delete(0);
@@ -114,6 +125,9 @@ public class ArrayDataStructure {
         arr.push(20);
         //arr.removeElement(20);
         arr.delete(6);
+        arr.insertAt(1, 99);
+
+        System.out.println(arr.get(1));
         System.out.println("Array size: " + arr.size());
 
         for (int i = 0; i < arr.size(); i++) {
