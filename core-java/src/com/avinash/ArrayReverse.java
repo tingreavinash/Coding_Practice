@@ -17,11 +17,10 @@ public class ArrayReverse {
             }
             int[] result = reverseArray(input, 0, size - 1);
 
-            StringBuilder sb = new StringBuilder();
             for (int val : result) {
-                sb.append(val + " ");
+                System.out.print(val + " ");
             }
-            System.out.println(sb);
+
         }
     }
 
