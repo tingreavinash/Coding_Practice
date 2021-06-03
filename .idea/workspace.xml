@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="update ArrayReverse.java">
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Problem: Print all prime numbers less than or equal to given number.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" afterDir="false" />
     </list>
@@ -62,32 +62,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.ArrayReverse">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.hibernate_tutorial.App" />
-      <module name="hibernate-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.hibernate_tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.Application" />
-      <module name="spring-core-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.ArrayReverse" />
       <module name="core-java" />
@@ -101,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.old.InterviewProblems.DataTypes" />
+    <configuration name="MinMaxPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.MinMaxPair" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.old.InterviewProblems.*" />
+          <option name="PATTERN" value="com.avinash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +88,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeckOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.old.InterviewProblems.DeckOfCards" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.PrimeNumber" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.old.InterviewProblems.*" />
+          <option name="PATTERN" value="com.avinash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.PrimeNumber2" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSquaredSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.ReverseSquaredSum" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,10 +130,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ArrayReverse" />
-        <item itemvalue="Application.DeckOfCards" />
-        <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.PrimeNumber2" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.ReverseSquaredSum" />
+        <item itemvalue="Application.MinMaxPair" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,63 @@
       <option name="project" value="LOCAL" />
       <updated>1622481106523</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update ArrayReverse.java">
+      <created>1622623174821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622623174821</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Problem: Find sum all elements in given array">
+      <created>1622648256965</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622648256965</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Problem: Find minimum and maximum element in given array">
+      <created>1622648324033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622648324033</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Problem: Check if given string is Palindrome">
+      <created>1622648352009</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622648352009</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Problem: reverse squared sum of array elements">
+      <created>1622648783747</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622648783747</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update ArrayReverse.java">
+      <created>1622690957699</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622690957700</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Problem: Check if given number is prime or not">
+      <created>1622692146983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622692146983</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Problem: Print all prime numbers less than or equal to given number.">
+      <created>1622707106203</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1622707106203</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +291,14 @@
     <MESSAGE value="change package structure" />
     <MESSAGE value="program to reverse int or string array" />
     <MESSAGE value="update ArrayReverse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ArrayReverse.java" />
+    <MESSAGE value="Problem: Find sum all elements in given array" />
+    <MESSAGE value="Problem: Find minimum and maximum element in given array" />
+    <MESSAGE value="Problem: Check if given string is Palindrome" />
+    <MESSAGE value="Problem: reverse squared sum of array elements" />
+    <MESSAGE value="Update ArrayReverse.java" />
+    <MESSAGE value="Problem: Check if given number is prime or not" />
+    <MESSAGE value="Problem: Print all prime numbers less than or equal to given number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem: Print all prime numbers less than or equal to given number." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
