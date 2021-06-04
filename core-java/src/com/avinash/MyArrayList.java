@@ -1,12 +1,12 @@
 package com.avinash;
 
-class MyArray {
+class ArrayListClass {
     private int size;
     private int capacity;
 
     private int[] arr;
 
-    MyArray() {
+    ArrayListClass() {
         arr = new int[5];
         capacity = 5;
         size = 0;
@@ -105,9 +105,9 @@ class MyArray {
 
 }
 
-public class ArrayDataStructure {
+public class MyArrayList {
     public static void main(String[] args) throws Exception {
-        MyArray arr = new MyArray();
+        ArrayListClass arr = new ArrayListClass();
 
         arr.push(10);
         arr.push(20);
