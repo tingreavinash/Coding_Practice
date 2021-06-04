@@ -5,12 +5,12 @@ class Node {
     Node next;
 }
 
-class MyLinkedList {
+class SinglyLinkedList {
     private Node head;
     private Node tail;
     private int size;
 
-    MyLinkedList() {
+    SinglyLinkedList() {
         head = tail = null;
 
         size = 0;
@@ -44,8 +44,9 @@ class MyLinkedList {
         node.data = data;
         node.next = null;
 
-        if (tail == null) {
-            head = tail = node;
+        if (head == null) {
+            head = node;
+            tail = head;
         } else {
             tail.next = node;
             tail = node;
@@ -102,6 +103,24 @@ class MyLinkedList {
         }
     }
 
+    public int find(int data) {
+        if (head == null) {
+            return -1;
+        } else {
+            Node p = head;
+            int i = 0;
+            while (p.data != data) {
+                p = p.next;
+                if (p == null) {
+                    return -1;
+                }
+                i++;
+            }
+            return i;
+
+        }
+    }
+
     public Node get(int index) {
         if (index == 0) {
             return head;
@@ -119,6 +138,27 @@ class MyLinkedList {
         }
     }
 
+    public void deleteIndex(int index) throws Exception {
+        if (index < 0 || head == null) {
+            throw new Exception("Index out of bounds");
+        } else if (index == 0) {
+            head = head.next;
+            size--;
+        } else {
+            Node p = head;
+
+            for (int i = 1; i < index; i++) {
+                p = p.next;
+            }
+            p.next = p.next.next;
+            size--;
+        }
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
     public int size() {
         return size;
     }
@@ -126,10 +166,10 @@ class MyLinkedList {
 
 }
 
-public class LinkedListDS {
+public class MyLinkedList {
     public static void main(String[] args) throws Exception {
 
-        MyLinkedList l = new MyLinkedList();
+        SinglyLinkedList l = new SinglyLinkedList();
 
         l.pushFront(11);
         l.pushFront(5);
@@ -140,6 +180,13 @@ public class LinkedListDS {
         l.popBack();
         l.addAfter(l.get(0), 25);
         l.addBefore(l.get(0), 15);
+        l.deleteIndex(1);
+        l.deleteIndex(3);
+        l.deleteIndex(0);
+        l.deleteIndex(0);
+        l.deleteIndex(0);
+        //l.pushBack(44);
+        //l.pushBack(44);
 
         int i = 0;
         while (l.get(i) != null) {
@@ -147,6 +194,10 @@ public class LinkedListDS {
             i++;
         }
         System.out.println("\nSize: " + l.size());
+
+        System.out.println("Element found at: " + l.find(44));
+
+        System.out.println(l.isEmpty());
 
     }
 }
