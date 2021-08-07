@@ -8,13 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-core-demo" />
         <module name="Core_Java" />
+        <module name="core-java" />
         <module name="hibernate-tutorial" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="coding-practice" target="11" />
       <module name="Coding_Practice" target="11" />
-      <module name="core-java" target="1.8" />
+      <module name="core-java" target="11" />
       <module name="hibernate-tutorial" target="11" />
       <module name="spring-core-demo" target="11" />
     </bytecodeTargetLevel>
