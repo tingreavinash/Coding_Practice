@@ -7,6 +7,7 @@ import java.util.Map;
 /**
  * Problem: Given an array of n numbers, and target value. Return the indices of two numbers such that sum is equal to target.
  */
+//FIXME:
 
 public class TwoSum {
 
@@ -14,10 +15,9 @@ public class TwoSum {
         int[] input = {3, 3};
         int target = 6;
 
-        int[] result = twoSum(input, target);
+        int[] result = twoSumOptimized(input, target);
         System.out.println(Arrays.toString(result));
     }
-
     public static int[] twoSumOptimized(int[] nums, int target) {
         int[] result = new int[2];
         Map<Integer, Integer> map = new HashMap<>();
@@ -30,7 +30,7 @@ public class TwoSum {
             map.put(nums[i], i);
 
         }
-        return result;
+        return null;
     }
 
     public static int[] twoSum(int[] nums, int target) {
