@@ -8,9 +8,24 @@ public class ReadWriteFile {
 
 
     public static void main(String[] args) throws IOException {
-        readFileUsingBufferedReader(FILE);
-        readFileUsingFileReader(FILE);
-        readFileUsingScanner(FILE);
+        writeFileUsingFileWriter(FILE);
+        writeFileUsingBufferedWriter(FILE);
+        //readFileUsingBufferedReader(FILE);
+        //readFileUsingFileReader(FILE);
+        //readFileUsingScanner(FILE);
+    }
+
+    private static void writeFileUsingBufferedWriter(File file) throws IOException {
+        BufferedWriter bw = new BufferedWriter(new FileWriter(file));
+        bw.write("Hello Atul");
+        bw.close();
+    }
+
+    private static void writeFileUsingFileWriter(File file) throws IOException {
+        FileWriter fr = new FileWriter(file);
+
+        fr.write("Hello Avinash");
+        fr.close();
     }
 
     private static void readFileUsingScanner(File file) throws FileNotFoundException {
