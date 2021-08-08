@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Read file in different ways">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Test commit">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/fundamentals/ConsoleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/fundamentals/StringSplit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/abc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/fundamentals/ReadWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/fundamentals/ReadWriteFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadWriteFile">
+  <component name="RunManager" selected="Application.StringSplit">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.AddTwoNumbers" />
       <module name="core-java" />
@@ -82,25 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Myclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deletethis.Myclass" />
+    <configuration name="ConsoleInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.fundamentals.ConsoleInput" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deletethis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.RangeSum" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +93,19 @@
     </configuration>
     <configuration name="ReadWriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.fundamentals.ReadWriteFile" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.fundamentals.StringSplit" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSplit" />
+        <item itemvalue="Application.ConsoleInput" />
         <item itemvalue="Application.ReadWriteFile" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.RangeSum" />
-        <item itemvalue="Application.Myclass" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +338,28 @@
       <option name="project" value="LOCAL" />
       <updated>1628273320488</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Read/Write file in different ways">
+      <created>1628353495410</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1628353495411</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New problems">
+      <created>1628353550221</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1628353550221</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Test commit">
+      <created>1628353574174</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1628353574174</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,9 +377,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="create multi-module project" />
-    <MESSAGE value="remove comments" />
     <MESSAGE value="naming correction" />
     <MESSAGE value="Update pom.xml" />
     <MESSAGE value="change package structure" />
@@ -385,7 +399,10 @@
     <MESSAGE value="Problem: Add all numbers from 0 to n." />
     <MESSAGE value="Problem: Two sum" />
     <MESSAGE value="Read file in different ways" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read file in different ways" />
+    <MESSAGE value="Read/Write file in different ways" />
+    <MESSAGE value="New problems" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
