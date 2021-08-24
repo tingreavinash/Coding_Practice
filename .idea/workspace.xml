@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="use two-pointer method in two-sum problem">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/MaxConsecutiveOnes.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 1004 - max consecutive ones">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/MaxProductSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxConsecutiveOnes">
+  <component name="RunManager" selected="Application.MaxProductSubarray">
     <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.MaxConsecutiveOnes" />
       <module name="core-java" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.fundamentals.StringSplit" />
+    <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxProductSubarray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.fundamentals.*" />
+          <option name="PATTERN" value="com.avinash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProductSubarray" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.Twosum" />
         <item itemvalue="Application.Twosum1" />
-        <item itemvalue="Application.StringSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629793931129</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="LC 152">
+      <created>1629801350837</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1629801350837</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +421,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem: Find sum all elements in given array" />
     <MESSAGE value="Problem: Find minimum and maximum element in given array" />
     <MESSAGE value="Problem: Check if given string is Palindrome" />
     <MESSAGE value="Problem: reverse squared sum of array elements" />
@@ -436,10 +442,11 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Fundamentals practice" />
     <MESSAGE value="add two-sum program" />
-    <MESSAGE value="add three-sum program" />
+    <MESSAGE value="LC 15 - three sum" />
     <MESSAGE value="add gitignore" />
-    <MESSAGE value="use two-pointer method in two-sum problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="use two-pointer method in two-sum problem" />
+    <MESSAGE value="LC 1 - two sum" />
+    <MESSAGE value="LC 1004 - max consecutive ones" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC 1004 - max consecutive ones" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
