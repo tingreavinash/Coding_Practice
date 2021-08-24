@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 121 - Best Time to Buy and Sell Stock">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ContainsDuplicate.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 217 - Contains Duplicate">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ProductExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicate">
+  <component name="RunManager" selected="Application.ProductExceptSelf">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.BuySellStock" />
       <module name="core-java" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxConsecutiveOnes" />
+    <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxProductSubarray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxProductSubarray" />
+    <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.ProductExceptSelf" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.MaxProductSubarray" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629822315306</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="LC 217 - Contains Duplicate">
+      <created>1629823458368</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1629823458369</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,7 +449,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update ArrayReverse.java" />
     <MESSAGE value="Problem: Check if given number is prime or not" />
     <MESSAGE value="Problem: Print all prime numbers less than or equal to given number." />
     <MESSAGE value="Problem: Reverse given array" />
@@ -467,7 +473,8 @@
     <MESSAGE value="LC 152 - maximum product subarray" />
     <MESSAGE value="LC 26 - Remove Duplicates from Sorted Array" />
     <MESSAGE value="LC 121 - Best Time to Buy and Sell Stock" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 121 - Best Time to Buy and Sell Stock" />
+    <MESSAGE value="LC 217 - Contains Duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC 217 - Contains Duplicate" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
