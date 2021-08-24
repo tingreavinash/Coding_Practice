@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="add two-sum program">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ThreeSum.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="add gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/Twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/Twosum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Personal\My Project\coding-practice" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.avinash.old" />
     </key>
@@ -372,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629736746754</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add three-sum program">
+      <created>1629788556412</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1629788556412</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add gitignore">
+      <created>1629788661709</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1629788661709</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,8 +409,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="change package structure" />
-    <MESSAGE value="program to reverse int or string array" />
     <MESSAGE value="update ArrayReverse.java" />
     <MESSAGE value="Problem: Find sum all elements in given array" />
     <MESSAGE value="Problem: Find minimum and maximum element in given array" />
@@ -415,7 +432,9 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Fundamentals practice" />
     <MESSAGE value="add two-sum program" />
-    <option name="LAST_COMMIT_MESSAGE" value="add two-sum program" />
+    <MESSAGE value="add three-sum program" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

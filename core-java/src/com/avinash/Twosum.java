@@ -14,8 +14,42 @@ public class Twosum {
         int target = 6;
 
         int[] res = twoSum2(nums, target);
+        //int[] res = twopointer(nums, target);
+
         System.out.println(Arrays.toString(res));
     }
+
+    /**
+     * Two pointer method works only if the array is sorted.
+     *
+     * @param nums
+     * @param target
+     * @return
+     */
+    private static int[] twopointer(int[] nums, int target) {
+        Arrays.sort(nums);
+        int[] res = new int[2];
+
+        int i = 0;
+        int j = nums.length - 1;
+
+        while (i < j) {
+            if (nums[i] + nums[j] == target) {
+                res[0] = i;
+                res[1] = j;
+                return res;
+            }
+
+            if (nums[i] + nums[j] > target) {
+                j--;
+            } else {
+                i++;
+            }
+        }
+
+        return res;
+    }
+
 
     public static int[] twoSum1(int[] nums, int target) {
         int[] result = new int[2];
