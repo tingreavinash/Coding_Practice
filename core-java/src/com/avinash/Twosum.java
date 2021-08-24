@@ -13,7 +13,7 @@ public class Twosum {
         int[] nums = {3, 2, 4};
         int target = 6;
 
-        int[] res = twoSum1(nums, target);
+        int[] res = twoSum2(nums, target);
         System.out.println(Arrays.toString(res));
     }
 
@@ -44,12 +44,12 @@ public class Twosum {
         for (int i = 0; i < nums.length; i++) {
             int num1 = nums[i];
 
-            for (int j = 0; j < nums.length; j++) {
+            for (int j = i + 1; j < nums.length; j++) {
                 if (i == j) continue;
                 int num2 = nums[j];
                 if (num1 + num2 == target) {
-                    result[0] = j;
-                    result[1] = i;
+                    result[0] = i;
+                    result[1] = j;
                 }
             }
 
