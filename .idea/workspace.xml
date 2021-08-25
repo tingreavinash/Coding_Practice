@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Restructure project">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/gfg/SubarrayWithGivenSum.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="GFG - Subarray with Given Sum">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/DisappearedNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubarrayWithGivenSum">
+  <component name="RunManager" selected="Application.DisappearedNumbers">
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ContainerWithMostWater" />
       <module name="core-java" />
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.MaxProductSubarray" />
+    <configuration name="DisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.DisappearedNumbers" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.MaxSubarray" />
+    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.MaxConsecutiveOnes" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisappearedNumbers" />
+        <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.SubarrayWithGivenSum" />
         <item itemvalue="Application.ContainerWithMostWater" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.MaxSubarray" />
-        <item itemvalue="Application.MaxProductSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629889559402</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="GFG - Subarray with Given Sum">
+      <created>1629894395709</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1629894395709</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +502,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update ArrayDataStructure.java" />
     <MESSAGE value="Problem: Implement linked list data structure" />
     <MESSAGE value="Update MyLinkedList.java" />
     <MESSAGE value="Update MyArrayList.java" />
@@ -520,7 +526,8 @@
     <MESSAGE value="LC 15 - three sum (faster)" />
     <MESSAGE value="LC 11 - Container With Most Water" />
     <MESSAGE value="Restructure project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Restructure project" />
+    <MESSAGE value="GFG - Subarray with Given Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="GFG - Subarray with Given Sum" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
