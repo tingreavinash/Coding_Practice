@@ -4,9 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 15 - three sum (faster)">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 11 - Container With Most Water">
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/BuySellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/MaxConsecutiveOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MaxProductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/MaxProductSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MaxSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/MaxSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MinMaxPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/MinMaxPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ds/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/ds/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/PrimeNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/PrimeNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/RangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/RangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ReverseSquaredSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/ReverseSquaredSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/Twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/Twosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Collection/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Collection/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Collection/ArrayOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Collection/ArrayOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Collection/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Collection/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Enumeration/EnumerationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Enumeration/EnumerationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/ExceptionHandling/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/ExceptionHandling/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/FileHandling/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/FileHandling/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/FileHandling/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/FileHandling/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/FileHandling/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/FileHandling/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Immutability/MyImmutableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Immutability/MyImmutableClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Inheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Inheritance/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Inheritance/Inheritance_Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Inheritance/Inheritance_Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Inheritance/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Inheritance/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterfaceExample/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterfaceExample/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterfaceExample/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterfaceExample/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/Checkpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/Checkpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/FinalizeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/FinalizeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/HashMapvsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/HashMapvsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/HourGlass.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/HourGlass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/LargeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/LargeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/LearnCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/LearnCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/MealCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/MealCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/StringPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/StringPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/StringProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/StringProblems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/TestAmdocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/TestAmdocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/TestClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/TestClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/TestClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/TestClass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/TestClass4.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/TestClass4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/WrapperClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/WrapperClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/InterviewProblems/varargs_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/InterviewProblems/varargs_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/JDBC/JDBC_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/JDBC/JDBC_Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Java8_Features/MyFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Java8_Features/MyFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/Multithreading/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/Multithreading/Cricket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/ObjectClassExamples/Cloning.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/ObjectClassExamples/Cloning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/abstractClass/Abstract_Interface_Ambiguity.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/abstractClass/Abstract_Interface_Ambiguity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/abstractClass/MyNewVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/abstractClass/MyNewVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/data_structure/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/data_structure/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/data_structure/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/data_structure/LinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/com/avinash/old/data_structure/LinkedList/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/data_structure/LinkedList/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +101,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,16 +130,20 @@
       <recent name="C:\Personal\My Project\coding-practice" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.avinash.other" />
+      <recent name="com.avinash.lc" />
+      <recent name="com.avinash.ds" />
+      <recent name="com.avinash.LC" />
       <recent name="com.avinash.old" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ContainerWithMostWater">
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.ContainerWithMostWater" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ContainerWithMostWater" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +152,11 @@
       </method>
     </configuration>
     <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxProductSubarray" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.MaxProductSubarray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +165,11 @@
       </method>
     </configuration>
     <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.MaxSubarray" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.MaxSubarray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +178,11 @@
       </method>
     </configuration>
     <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.ProductExceptSelf" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ProductExceptSelf" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +191,11 @@
       </method>
     </configuration>
     <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.ThreeSum" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ThreeSum" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.*" />
+          <option name="PATTERN" value="com.avinash.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629885884916</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="LC 11 - Container With Most Water">
+      <created>1629887546840</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1629887546840</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem: Print pascals triangle of given row size" />
     <MESSAGE value="Problem: Implement dynamic array" />
     <MESSAGE value="Update ArrayDataStructure.java" />
     <MESSAGE value="Problem: Implement linked list data structure" />
@@ -495,7 +572,8 @@
     <MESSAGE value="LC 238 - Product of Array Except Self" />
     <MESSAGE value="LC 53 - Maximum Subarray" />
     <MESSAGE value="LC 15 - three sum (faster)" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 15 - three sum (faster)" />
+    <MESSAGE value="LC 11 - Container With Most Water" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC 11 - Container With Most Water" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
