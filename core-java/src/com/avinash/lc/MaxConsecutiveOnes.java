@@ -14,30 +14,23 @@ public class MaxConsecutiveOnes {
 
     // Sliding window technique
     private static int longestOnes(int[] nums, int k) {
+        int counter = 0;
         int start = 0;
-        int zerocounter = 0;
-        int max = Integer.MIN_VALUE;
+        int maxWindow = Integer.MIN_VALUE;
         for (int end = 0; end < nums.length; end++) {
             if (nums[end] == 0) {
-                zerocounter++;
+                counter++;
             }
-            while (zerocounter > k) {
+            while (counter > k) {
                 if (nums[start] == 0) {
-                    zerocounter--;
+                    counter--;
                 }
                 start++;
             }
-            max = calcMax(max, end - start + 1);
-        }
+            maxWindow = Math.max(maxWindow, end - start + 1);
 
-        return max;
+        }
+        return maxWindow;
     }
 
-    private static int calcMax(int val1, int val2) {
-        if (val1 > val2) {
-            return val1;
-        } else {
-            return val2;
-        }
-    }
 }
