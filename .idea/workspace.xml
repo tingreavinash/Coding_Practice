@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 121 - Best Time to Buy and Sell Stock (kadane's algorithm)">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/ValidParenthesis.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 1004 - max consecutive ones (revise)">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/BitwiseOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +71,13 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidParenthesis">
-    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.BuySellStock" />
+  <component name="RunManager" selected="Application.RomanToInteger">
+    <configuration name="BitwiseOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.other.BitwiseOperation" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.lc.*" />
+          <option name="PATTERN" value="com.avinash.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,19 +87,6 @@
     </configuration>
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ContainerWithMostWater" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.DisappearedNumbers" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +111,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ValidParenthesis" />
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.RomanToInteger" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ValidParentheses" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.BuySellStock" />
-        <item itemvalue="Application.DisappearedNumbers" />
+        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.BitwiseOperation" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.ContainerWithMostWater" />
       </list>
     </recent_temporary>
   </component>
@@ -154,20 +155,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1622355578179</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1622355578179</updated>
-    </task>
-    <task id="LOCAL-00002" summary="create multi-module project">
-      <created>1622361477679</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1622361477679</updated>
     </task>
     <task id="LOCAL-00003" summary="naming correction">
       <created>1622363766505</created>
@@ -498,7 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629970515119</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="LC 20 - Valid Parentheses">
+      <created>1629993360859</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1629993360859</updated>
+    </task>
+    <task id="LOCAL-00051" summary="LC 1004 - max consecutive ones (revise)">
+      <created>1630052137516</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1630052137516</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,8 +517,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update MyArrayList.java" />
-    <MESSAGE value="Problem: Add all numbers from 0 to n." />
     <MESSAGE value="Problem: Two sum" />
     <MESSAGE value="Read file in different ways" />
     <MESSAGE value="Read/Write file in different ways" />
@@ -541,7 +540,9 @@
     <MESSAGE value="GFG - Subarray with Given Sum" />
     <MESSAGE value="LC 448 - Find All Numbers Disappeared in an Array" />
     <MESSAGE value="LC 121 - Best Time to Buy and Sell Stock (kadane's algorithm)" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 121 - Best Time to Buy and Sell Stock (kadane's algorithm)" />
+    <MESSAGE value="LC 20 - Valid Parentheses" />
+    <MESSAGE value="LC 1004 - max consecutive ones (revise)" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC 1004 - max consecutive ones (revise)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
