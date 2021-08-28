@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 371 - Sum of Two Integers" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 371 - Sum of Two Integers">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/NumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="LC 371 - Sum of Two Integers" />
+        <option name="rewordedMessage" value="LC 371 - Sum of Two Integers" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="de71facfe979b7777d5ba608d23eb89db61531b1" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -67,7 +80,7 @@
       <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntegerSum">
+  <component name="RunManager" selected="Application.NumberOf1Bits">
     <configuration name="BitwiseOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.other.BitwiseOperation" />
       <module name="core-java" />
@@ -107,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.NumberOf1Bits" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.lc.RomanToInteger" />
       <module name="core-java" />
@@ -120,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.ValidParentheses" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOf1Bits" />
         <item itemvalue="Application.IntegerSum" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.BitwiseOperation" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.ValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -151,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00005" summary="naming correction">
-      <created>1622363884327</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1622363884327</updated>
     </task>
     <task id="LOCAL-00006" summary="Update pom.xml">
       <created>1622364076873</created>
@@ -495,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630143356040</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="LC 371 - Sum of Two Integers">
+      <created>1630143895861</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1630143895861</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
