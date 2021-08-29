@@ -1,4 +1,4 @@
-package com.avinash.lc;
+package com.avinash.lc.medium;
 
 /**
  * https://leetcode.com/problems/sum-of-two-integers/

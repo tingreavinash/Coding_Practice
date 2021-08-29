@@ -1,4 +1,4 @@
-package com.avinash.lc;
+package com.avinash.lc.easy;
 
 /**
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/

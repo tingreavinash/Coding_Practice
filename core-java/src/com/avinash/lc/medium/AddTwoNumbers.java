@@ -1,4 +1,4 @@
-package com.avinash.lc;
+package com.avinash.lc.medium;
 
 /**
  * https://leetcode.com/problems/add-two-numbers/
@@ -20,7 +20,6 @@ class ListNode {
     }
 }
 
-//FIXME:
 public class AddTwoNumbers {
     public static void main(String[] args) {
         ListNode v1 = new ListNode(2, new ListNode(4, new ListNode(3)));

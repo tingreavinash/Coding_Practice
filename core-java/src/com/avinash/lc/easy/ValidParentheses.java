@@ -1,4 +1,4 @@
-package com.avinash.lc;
+package com.avinash.lc.easy;
 
 import java.util.Stack;
 

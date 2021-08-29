@@ -1,4 +1,4 @@
-package com.avinash.lc;
+package com.avinash.lc.easy;
 
 /**
  * https://leetcode.com/problems/number-of-1-bits/
