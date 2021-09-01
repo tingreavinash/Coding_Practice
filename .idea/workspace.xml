@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 1985 - Find the Kth Largest Integer in the Array">
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Categorise problems difficulty wise">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/lc/medium/MinimumInRotatedSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +73,33 @@
       <recent name="C:\Personal\My Project\coding-practice" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.avinash.lc.medium" />
+      <recent name="com.avinash.lc.easy" />
       <recent name="com.avinash.other" />
       <recent name="com.avinash.lc" />
       <recent name="com.avinash.ds" />
-      <recent name="com.avinash.LC" />
-      <recent name="com.avinash.old" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
+  <component name="RunManager" selected="Application.MinimumInRotatedSortedArray">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.AddTwoNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.AddTwoNumbers" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.lc.*" />
+          <option name="PATTERN" value="com.avinash.lc.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.easy.BuySellStock" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.lc.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,21 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.IntegerSum" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KthLargestInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.KthLargestInteger" />
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.KthLargestInteger" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.easy.NumberOf1Bits" />
+    <configuration name="MinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.MinimumInRotatedSortedArray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.lc.easy.*" />
+          <option name="PATTERN" value="com.avinash.lc.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumInRotatedSortedArray" />
+        <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.KthLargestInteger" />
         <item itemvalue="Application.CountingBits" />
-        <item itemvalue="Application.NumberOf1Bits" />
-        <item itemvalue="Application.IntegerSum" />
       </list>
     </recent_temporary>
   </component>
@@ -163,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update ArrayReverse.java">
-      <created>1622623174821</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1622623174821</updated>
     </task>
     <task id="LOCAL-00011" summary="Problem: Find sum all elements in given array">
       <created>1622648256965</created>
@@ -507,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630225283367</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Categorise problems difficulty wise">
+      <created>1630258970449</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1630258970449</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fundamentals practice" />
     <MESSAGE value="add two-sum program" />
     <MESSAGE value="LC 15 - three sum" />
     <MESSAGE value="add gitignore" />
@@ -550,7 +550,8 @@
     <MESSAGE value="LC 191 - Number of 1 Bits" />
     <MESSAGE value="LC 338 - Counting Bits" />
     <MESSAGE value="LC 1985 - Find the Kth Largest Integer in the Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 1985 - Find the Kth Largest Integer in the Array" />
+    <MESSAGE value="Categorise problems difficulty wise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Categorise problems difficulty wise" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
