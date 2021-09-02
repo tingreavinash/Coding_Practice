@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 62 - Unique Paths" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 63 - Unique Paths II">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/gfg/MaxDifferenceBetweenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,13 +80,13 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniquePaths2">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.MaxDifferenceBetweenNumbers">
+    <configuration name="MaxDifferenceBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.MaxDifferenceBetweenNumbers" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.lc.medium.*" />
+          <option name="PATTERN" value="com.avinash.gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.easy.BuySellStock" />
+    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.easy.MaxSubarray" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxDifferenceBetweenNumbers" />
+        <item itemvalue="Application.MaxSubarray" />
         <item itemvalue="Application.UniquePaths2" />
         <item itemvalue="Application.UniquePaths" />
         <item itemvalue="Application.MinimumInRotatedSortedArray" />
-        <item itemvalue="Application.BuySellStock" />
-        <item itemvalue="Application.AddTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -161,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Problem: Check if given string is Palindrome">
-      <created>1622648352009</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1622648352009</updated>
     </task>
     <task id="LOCAL-00014" summary="Problem: reverse squared sum of array elements">
       <created>1622648783747</created>
@@ -505,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630564740896</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="LC 63 - Unique Paths II">
+      <created>1630568010893</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1630568010893</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add gitignore" />
     <MESSAGE value="LC 1 - two sum" />
     <MESSAGE value="LC 1004 - max consecutive ones" />
     <MESSAGE value="LC 152 - maximum product subarray" />
@@ -548,7 +550,8 @@
     <MESSAGE value="Categorise problems difficulty wise" />
     <MESSAGE value="LC 153 - Find Minimum in Rotated Sorted Array" />
     <MESSAGE value="LC 62 - Unique Paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 62 - Unique Paths" />
+    <MESSAGE value="LC 63 - Unique Paths II" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC 63 - Unique Paths II" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
