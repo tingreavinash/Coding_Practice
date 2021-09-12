@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="LC 63 - Unique Paths II">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/gfg/MaxDifferenceBetweenNumbers.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="GFG - Maximum difference between two elements">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/gfg/ConsecutiveNumbersWithSumN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,20 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxDifferenceBetweenNumbers">
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="ConsecutiveNumbersWithSumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.ConsecutiveNumbersWithSumN" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxDifferenceBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.MaxDifferenceBetweenNumbers" />
       <module name="core-java" />
@@ -107,21 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.MinimumInRotatedSortedArray" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.UniquePaths" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.ThreeSum" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.ConsecutiveNumbersWithSumN" />
         <item itemvalue="Application.MaxDifferenceBetweenNumbers" />
         <item itemvalue="Application.MaxSubarray" />
         <item itemvalue="Application.UniquePaths2" />
-        <item itemvalue="Application.UniquePaths" />
-        <item itemvalue="Application.MinimumInRotatedSortedArray" />
       </list>
     </recent_temporary>
   </component>
