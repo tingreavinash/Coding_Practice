@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="GFG - Maximum difference between two elements">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/gfg/ConsecutiveNumbersWithSumN.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="GFG - Consecutive Numbers With Sum N">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersise1/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersise1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/NPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +45,11 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -80,7 +83,7 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="ConsecutiveNumbersWithSumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.ConsecutiveNumbersWithSumN" />
       <module name="core-java" />
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDifferenceBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.MaxDifferenceBetweenNumbers" />
+    <configuration name="NPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.other.NPalindromes" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.gfg.*" />
+          <option name="PATTERN" value="com.avinash.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.easy.MaxSubarray" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.excersise1.Runner" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.lc.easy.*" />
+          <option name="PATTERN" value="com.avinash.excersise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.other.Test" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePaths2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.UniquePaths2" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NPalindromes" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.ConsecutiveNumbersWithSumN" />
-        <item itemvalue="Application.MaxDifferenceBetweenNumbers" />
-        <item itemvalue="Application.MaxSubarray" />
-        <item itemvalue="Application.UniquePaths2" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Problem: reverse squared sum of array elements">
-      <created>1622648783747</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1622648783747</updated>
     </task>
     <task id="LOCAL-00015" summary="Update ArrayReverse.java">
       <created>1622690957699</created>
@@ -508,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630568010893</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="GFG - Consecutive Numbers With Sum N">
+      <created>1631448099226</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1631448099226</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +529,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 1 - two sum" />
     <MESSAGE value="LC 1004 - max consecutive ones" />
     <MESSAGE value="LC 152 - maximum product subarray" />
     <MESSAGE value="LC 26 - Remove Duplicates from Sorted Array" />
@@ -551,7 +553,8 @@
     <MESSAGE value="LC 153 - Find Minimum in Rotated Sorted Array" />
     <MESSAGE value="LC 62 - Unique Paths" />
     <MESSAGE value="LC 63 - Unique Paths II" />
-    <option name="LAST_COMMIT_MESSAGE" value="LC 63 - Unique Paths II" />
+    <MESSAGE value="GFG - Consecutive Numbers With Sum N" />
+    <option name="LAST_COMMIT_MESSAGE" value="GFG - Consecutive Numbers With Sum N" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
