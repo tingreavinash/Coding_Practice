@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="GFG - Consecutive Numbers With Sum N">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersise1/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersise1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/NPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/other/Test.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Comparable vs Comparator">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersize2/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Work/Projects/nlps-profiles-dev/CERENCE_PAY" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.152439" />
@@ -83,13 +80,13 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="ConsecutiveNumbersWithSumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.gfg.ConsecutiveNumbersWithSumN" />
+  <component name="RunManager" selected="Application.Runner (1)">
+    <configuration name="NPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.other.NPalindromes" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.gfg.*" />
+          <option name="PATTERN" value="com.avinash.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.other.NPalindromes" />
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.excersize2.Runner" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.other.*" />
+          <option name="PATTERN" value="com.avinash.excersize2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NPalindromes" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.ConsecutiveNumbersWithSumN" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Update ArrayReverse.java">
-      <created>1622690957699</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1622690957700</updated>
     </task>
     <task id="LOCAL-00016" summary="Problem: Check if given number is prime or not">
       <created>1622692146983</created>
@@ -511,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631448099226</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Comparable vs Comparator">
+      <created>1633521859018</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1633521859019</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 1004 - max consecutive ones" />
     <MESSAGE value="LC 152 - maximum product subarray" />
     <MESSAGE value="LC 26 - Remove Duplicates from Sorted Array" />
     <MESSAGE value="LC 121 - Best Time to Buy and Sell Stock" />
@@ -554,7 +550,8 @@
     <MESSAGE value="LC 62 - Unique Paths" />
     <MESSAGE value="LC 63 - Unique Paths II" />
     <MESSAGE value="GFG - Consecutive Numbers With Sum N" />
-    <option name="LAST_COMMIT_MESSAGE" value="GFG - Consecutive Numbers With Sum N" />
+    <MESSAGE value="Comparable vs Comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable vs Comparator" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
