@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Comparable vs Comparator">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/excersize2/Runner.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Storing password in java">
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/serialization/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/serialization/object.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,7 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner (1)">
+  <component name="RunManager" selected="Application.Runner (2)">
     <configuration name="NPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.avinash.other.NPalindromes" />
       <module name="core-java" />
@@ -100,6 +101,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.avinash.excersize2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avinash.java_concepts.serialization.Runner" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avinash.java_concepts.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.lc.medium.ThreeSum" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.avinash.lc.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (2)" />
         <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NPalindromes" />
-        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Problem: Check if given number is prime or not">
-      <created>1622692146983</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1622692146983</updated>
     </task>
     <task id="LOCAL-00017" summary="Problem: Print all prime numbers less than or equal to given number.">
       <created>1622707106203</created>
@@ -508,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633521859019</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Storing password in java">
+      <created>1633691061100</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1633691061100</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +527,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 152 - maximum product subarray" />
     <MESSAGE value="LC 26 - Remove Duplicates from Sorted Array" />
     <MESSAGE value="LC 121 - Best Time to Buy and Sell Stock" />
     <MESSAGE value="LC 217 - Contains Duplicate" />
@@ -551,7 +551,8 @@
     <MESSAGE value="LC 63 - Unique Paths II" />
     <MESSAGE value="GFG - Consecutive Numbers With Sum N" />
     <MESSAGE value="Comparable vs Comparator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comparable vs Comparator" />
+    <MESSAGE value="Storing password in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Storing password in java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
