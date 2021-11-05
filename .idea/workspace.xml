@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Storing password in java">
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/serialization/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java/src/com/avinash/java_concepts/serialization/object.out" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Rename package">
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/concurrency/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/concurrency/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +43,14 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/com/avinash/ds/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/ds/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/spring-core-demo/src/com/avinash/Application.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/spring-core-demo/src/io/github/tingreavinash/Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/ds/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,13 +84,13 @@
       <recent name="com.avinash.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner (2)">
-    <configuration name="NPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avinash.other.NPalindromes" />
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.concurrency.MainClass" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avinash.other.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Runner (2)" />
         <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.NPalindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Problem: Print all prime numbers less than or equal to given number.">
-      <created>1622707106203</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1622707106203</updated>
     </task>
     <task id="LOCAL-00018" summary="Problem: Reverse given array">
       <created>1622709089639</created>
@@ -509,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633691061100</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Rename package">
+      <created>1636127216028</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1636127216028</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -527,7 +530,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 26 - Remove Duplicates from Sorted Array" />
     <MESSAGE value="LC 121 - Best Time to Buy and Sell Stock" />
     <MESSAGE value="LC 217 - Contains Duplicate" />
     <MESSAGE value="LC 238 - Product of Array Except Self" />
@@ -552,7 +554,8 @@
     <MESSAGE value="GFG - Consecutive Numbers With Sum N" />
     <MESSAGE value="Comparable vs Comparator" />
     <MESSAGE value="Storing password in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Storing password in java" />
+    <MESSAGE value="Rename package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename package" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
