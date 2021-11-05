@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:context="http://www.springframework.org/schema/context"
-	xmlns:aop="http://www.springframework.org/schema/aop"
-	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:context="http://www.springframework.org/schema/context"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
     http://www.springframework.org/schema/context
-    http://www.springframework.org/schema/context/spring-context-3.0.xsd
-    http://www.springframework.org/schema/aop 
-    http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
-    ">
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
-	<bean id="adrs2" class="com.avinash.Address">
+	<bean id="adrs2" class="io.github.tingreavinash.Address">
 		<property name="city" value="Nanded"></property>
 		<property name="state" value="Maharashtra"></property>
 		<property name="zipCode" value="431605"></property>
 	</bean>
 	
-	<bean id="adrs1" class="com.avinash.Address">
+	<bean id="adrs1" class="io.github.tingreavinash.Address">
 		<property name="city" value="Pune"></property>
 		<property name="state" value="Maharashtra"></property>
 		<property name="zipCode" value="411028"></property>
 	</bean>
 
-	<bean id="emp1" class="com.avinash.Employee" init-method="myInit"
-		destroy-method="myDestroy">
+	<bean id="emp1" class="io.github.tingreavinash.Employee" init-method="myInit"
+          destroy-method="myDestroy">
 		<property name="eid" value="102"></property>
 		<property name="ename" value="Atul"></property>
 		<!-- <constructor-arg index="0" ref="adrs1"></constructor-arg> -->
 		<property name="address" ref="adrs2"></property>
 	</bean>
 
-	<!-- <bean id="emp2" class="com.avinash.Employee"> <property name="eid" 
+	<!-- <bean id="emp2" class="Employee"> <property name="eid"
 		value="103"></property> <property name="ename" value="Aaryan"></property> 
 		<property name="eaddress" value="Nanded"></property> </bean> -->
 
