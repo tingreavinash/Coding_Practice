@@ -4,53 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Update polymorphism example">
-      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/Node.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Refactor project structure">
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/TryCatchFinallyDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/concurrency/Caller.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/java_concepts/concurrency/Caller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/concurrency/FutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/java_concepts/concurrency/FutureDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/concurrency/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/java_concepts/concurrency/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/ds/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/ds/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/excersise1/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/InterviewProblems/ComparatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/excersise1/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/excersize2/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/fundamentals/ConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Basics/ConsoleInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/fundamentals/ReadWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Basics/ReadWriteFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/fundamentals/StringSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Basics/StringSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/gfg/ConsecutiveNumbersWithSumN.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/GeeksForGeeks/ConsecutiveNumbersWithSumN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/gfg/MaxDifferenceBetweenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/GeeksForGeeks/MaxDifferenceBetweenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/gfg/SubarrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/GeeksForGeeks/SubarrayWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/BuySellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/CountingBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/DisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/DisappearedNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/MaxSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/MaxSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/NumberOf1Bits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/Twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/Twosum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/easy/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/easy/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/IntegerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/IntegerSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/KthLargestInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/KthLargestInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/MaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/MaxProductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/MaxProductSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/MinimumInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/MinimumInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/ProductExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/lc/medium/UniquePaths2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/Leetcode/medium/UniquePaths2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/ArrayReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/ArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/MinMaxPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/MinMaxPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/PascalsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/PrimeNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/PrimeNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/RangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/RangeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/other/ReverseSquaredSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/other/ReverseSquaredSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +44,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/MyLinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/LinkedList/Runner.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/core-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/employeebean.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/spring-core-demo/src/io/github/tingreavinash/Application.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/MyArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/DataStructureImplementation/ArrayList/Runner.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tFCdZU0wkiWKpkvfx1xM4rPRJ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -120,14 +76,20 @@
       <recent name="C:\Personal\My Project\coding-practice" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.github.tingreavinash.Problems.InterviewProblems" />
+      <recent name="io.github.tingreavinash.Problems.DataStructureImplementation.ArrayList" />
+      <recent name="io.github.tingreavinash.Problems.DataStructureImplementation.LinkedList" />
       <recent name="io.github.tingreavinash.Problems" />
       <recent name="io.github.tingreavinash.java_concepts" />
-      <recent name="com.avinash.lc.medium" />
-      <recent name="com.avinash.lc.easy" />
-      <recent name="com.avinash.other" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedList">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TryCatchFinallyDemo">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.InterviewProblems.ComparatorDemo" />
       <module name="core-java" />
@@ -141,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.java_concepts.concurrency.FutureDemo" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.java_concepts.concurrency.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.DataStructureImplementation.MyLinkedList" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.Problems.DataStructureImplementation.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.Problems.DataStructureImplementation.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="PolymorphismDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.java_concepts.Inheritance.PolymorphismDemo" />
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Inheritance.PolymorphismDemo" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.java_concepts.Inheritance.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +129,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.java_concepts.serialization.Runner" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Serialization.Runner" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.java_concepts.serialization.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchFinallyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.TryCatchFinallyDemo" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchFinallyDemo" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.ComparatorDemo" />
         <item itemvalue="Application.PolymorphismDemo" />
         <item itemvalue="Application.Runner (3)" />
-        <item itemvalue="Application.FutureDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -211,20 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Update ArrayDataStructure.java">
-      <created>1622722836722</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1622722836722</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Problem: Implement linked list data structure">
-      <created>1622788766282</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1622788766282</updated>
     </task>
     <task id="LOCAL-00023" summary="Update MyLinkedList.java">
       <created>1622791174466</created>
@@ -555,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636185507958</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Refactor project structure">
+      <created>1636188125752</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1636188125752</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Refactor project structure">
+      <created>1636189597556</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1636189597557</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,7 +535,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 53 - Maximum Subarray" />
     <MESSAGE value="LC 15 - three sum (faster)" />
     <MESSAGE value="LC 11 - Container With Most Water" />
     <MESSAGE value="Restructure project" />
@@ -598,7 +559,8 @@
     <MESSAGE value="Executor and ExecutorService usage" />
     <MESSAGE value="Use of transient variable" />
     <MESSAGE value="Update polymorphism example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update polymorphism example" />
+    <MESSAGE value="Refactor project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor project structure" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
