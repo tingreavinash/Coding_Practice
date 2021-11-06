@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Try catch finally demo">
-      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/TrickyArithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Tricky Questions">
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/Inheritance/MultipleInheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrickyArithmetic">
+  <component name="RunManager" selected="Application.MultipleInheritance">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.InterviewProblems.ComparatorDemo" />
       <module name="core-java" />
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.DataStructureImplementation.MyLinkedList" />
+    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Inheritance.MultipleInheritance" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.Problems.DataStructureImplementation.LinkedList.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Inheritance.PolymorphismDemo" />
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.DataStructureImplementation.MyLinkedList" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Inheritance.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.Problems.DataStructureImplementation.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleInheritance" />
         <item itemvalue="Application.TrickyArithmetic" />
         <item itemvalue="Application.TryCatchFinallyDemo" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.ComparatorDemo" />
-        <item itemvalue="Application.PolymorphismDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Update MyArrayList.java">
-      <created>1622791193679</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1622791193679</updated>
     </task>
     <task id="LOCAL-00025" summary="Problem: Add all numbers from 0 to n.">
       <created>1622918282147</created>
@@ -517,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636209576544</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Tricky Questions">
+      <created>1636210264147</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1636210264147</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +534,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 11 - Container With Most Water" />
     <MESSAGE value="Restructure project" />
     <MESSAGE value="GFG - Subarray with Given Sum" />
     <MESSAGE value="LC 448 - Find All Numbers Disappeared in an Array" />
@@ -560,7 +558,8 @@
     <MESSAGE value="Update polymorphism example" />
     <MESSAGE value="Refactor project structure" />
     <MESSAGE value="Try catch finally demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try catch finally demo" />
+    <MESSAGE value="Tricky Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tricky Questions" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
