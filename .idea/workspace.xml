@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Tricky Questions">
-      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/Inheritance/MultipleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/Immutability/MyImmutableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/Immutability/MyImmutableClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +88,13 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultipleInheritance">
-    <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.InterviewProblems.ComparatorDemo" />
+  <component name="RunManager" selected="Application.MyImmutableClass">
+    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Inheritance.MultipleInheritance" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.Problems.InterviewProblems.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Inheritance.MultipleInheritance" />
+    <configuration name="MyImmutableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Immutability.MyImmutableClass" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Inheritance.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Immutability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyImmutableClass" />
         <item itemvalue="Application.MultipleInheritance" />
         <item itemvalue="Application.TrickyArithmetic" />
         <item itemvalue="Application.TryCatchFinallyDemo" />
         <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.ComparatorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,13 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Problem: Add all numbers from 0 to n.">
-      <created>1622918282147</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1622918282148</updated>
     </task>
     <task id="LOCAL-00026" summary="Problem: Two sum">
       <created>1622918394516</created>
@@ -516,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636210264147</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Tricky Questions">
+      <created>1636210613392</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1636210613392</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
