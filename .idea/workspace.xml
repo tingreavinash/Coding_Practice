@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Refactor project structure">
-      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/TryCatchFinallyDemo.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Try catch finally demo">
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/TrickyArithmetic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TryCatchFinallyDemo">
+  <component name="RunManager" selected="Application.TrickyArithmetic">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.InterviewProblems.ComparatorDemo" />
       <module name="core-java" />
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Serialization.Runner" />
+    <configuration name="TrickyArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.TrickyArithmetic" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.Serialization.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrickyArithmetic" />
         <item itemvalue="Application.TryCatchFinallyDemo" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.ComparatorDemo" />
         <item itemvalue="Application.PolymorphismDemo" />
-        <item itemvalue="Application.Runner (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622355537402</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Update MyLinkedList.java">
-      <created>1622791174466</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1622791174466</updated>
     </task>
     <task id="LOCAL-00024" summary="Update MyArrayList.java">
       <created>1622791193679</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636189597557</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Try catch finally demo">
+      <created>1636209576544</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1636209576544</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +535,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LC 15 - three sum (faster)" />
     <MESSAGE value="LC 11 - Container With Most Water" />
     <MESSAGE value="Restructure project" />
     <MESSAGE value="GFG - Subarray with Given Sum" />
@@ -560,7 +559,8 @@
     <MESSAGE value="Use of transient variable" />
     <MESSAGE value="Update polymorphism example" />
     <MESSAGE value="Refactor project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor project structure" />
+    <MESSAGE value="Try catch finally demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try catch finally demo" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
