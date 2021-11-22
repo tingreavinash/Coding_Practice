@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="Deadlock demo">
-      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/JavaConcepts/HashCodeEquals/Runner.java" afterDir="false" />
+    <list default="true" id="6173c42a-28b2-4fc3-b4b9-f601ceb92402" name="Default Changelist" comment="HashCode Equals Demo">
+      <change afterPath="$PROJECT_DIR$/core-java/src/io/github/tingreavinash/Problems/InterviewProblems/StarPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.StarPattern">
     <configuration name="DeadlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.Multithreading.DeadlockDemo" />
       <module name="core-java" />
@@ -142,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrickyArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.JavaConcepts.TrickyArithmetic" />
+    <configuration name="StarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tingreavinash.Problems.InterviewProblems.StarPattern" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.tingreavinash.JavaConcepts.*" />
+          <option name="PATTERN" value="io.github.tingreavinash.Problems.InterviewProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarPattern" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.DeadlockDemo" />
         <item itemvalue="Application.MyImmutableClass" />
         <item itemvalue="Application.MultipleInheritance" />
-        <item itemvalue="Application.TrickyArithmetic" />
       </list>
     </recent_temporary>
   </component>
